@@ -219,6 +219,8 @@ class _HomeScreenState extends State<HomeScreen> {
         builder: (context) => QuestionScreen(userDilemma: userText),
       ),
     );
+    // NEW: Clear the text field
+    _decisionController.clear();
   }
 
   @override
