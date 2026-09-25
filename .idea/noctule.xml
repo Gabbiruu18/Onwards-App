@@ -2,6 +2,11 @@
 <project version="4">
   <component name="NoctuleWorkspaceSettings">
     <fileSettings>
+      <settings filePath="D:\Onwards_App\onwards_app\ios\Flutter\ephemeral\Packages\FlutterGeneratedPluginSwiftPackage\Package.swift">
+        <projectSettings projectType="noctule.spm">
+          <filePath>$PROJECT_DIR$/onwards_app/ios/Flutter/ephemeral/Packages/FlutterGeneratedPluginSwiftPackage/Package.swift</filePath>
+        </projectSettings>
+      </settings>
       <settings filePath="D:\Universal_Decision_App\unidec_app\ios\Flutter\ephemeral\Packages\FlutterGeneratedPluginSwiftPackage\Package.swift">
         <projectSettings projectType="noctule.spm">
           <filePath>$PROJECT_DIR$/unidec_app/ios/Flutter/ephemeral/Packages/FlutterGeneratedPluginSwiftPackage/Package.swift</filePath>
