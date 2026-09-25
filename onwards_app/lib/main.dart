@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
-import 'Screens/opening_screen.dart';
+import 'Screens/home_screen.dart';
+//import 'Screens/opening_screen.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -26,8 +27,8 @@ class DecisionGuardianApp extends StatelessWidget {
         scaffoldBackgroundColor: const Color(0xFFDBDBDB),
         useMaterial3: true,
       ),
-      home: OpeningScreen(),
-      //home: const HomeScreen(),
+      //home: OpeningScreen(),
+      home: const HomeScreen(),
     );
   }
 }

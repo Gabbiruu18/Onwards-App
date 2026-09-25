@@ -38,7 +38,7 @@ dependencies:
   flutter_dotenv: ^6.0.1
   flutter_markdown: ^0.7.3
   lottie: ^3.6.1
-  video_player: ^2.14.0
+  #video_player: ^2.14.0
 
 dev_dependencies:
   flutter_test:
@@ -59,7 +59,7 @@ flutter:
   uses-material-design: true
   assets:
     - .env
-    - lib/UI_animations/assets/
+    - lib/UI_animations/assets/loadingcircle.mp4
 
 
   # The following line ensures that the Material Icons font is

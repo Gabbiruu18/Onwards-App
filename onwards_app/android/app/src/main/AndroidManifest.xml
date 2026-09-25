@@ -4,7 +4,7 @@
 
     <application
         android:label="unidec_app"
-        android:name="${applicationName}"
+        android:name="Unidec"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

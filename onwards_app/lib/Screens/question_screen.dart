@@ -1,7 +1,7 @@
-import 'package:flutter/cupertino.dart';
+//import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:unidec_app/Screens/result_screen.dart';
-import 'package:unidec_app/main.dart';
+//import 'package:unidec_app/main.dart';
 
 import 'package:unidec_app/AI_Service/ai_service.dart';
 
